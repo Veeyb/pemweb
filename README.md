@@ -1,3 +1,3 @@
-Tugas 2 PAW
-Nama  : Omar Athaya Vito
-NIM   : 12314098
+Tugas 2 PAW <br>
+Nama  : Omar Athaya Vito <br>
+NIM   : 12314098 <br>
